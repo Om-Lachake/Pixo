@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pixo 
+Welcome to Pixo, discover our dynamic social media platform built with Next.js, where you can effortlessly share your moments by uploading posts, engage with others through likes and comments, and connect with a vibrant community—all after a simple sign-up.
+## Table of Contents
+1. [About the Project](#about-the-project)  
+2. [Features](#features)  
+3. [Built with](#built-with)   
+4. [Usage](#usage)  
+---
+## About the Project
+**Pixo** is a modern social media platform built with Next.js that offers a robust and engaging user experience.
 
-## Getting Started
+---
+## Features
 
-First, run the development server:
+Pixo is engineered to deliver a comprehensive social media experience with a focus on usability, real-time interactions, and scalability. Some of the key features include:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **User Profiles:**  
+  Create and customize your personal profile with a bio, profile picture, and a curated feed of your posts and liked content.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Content Sharing:**  
+  Easily upload posts, images, and videos to share your moments with the community.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Interactive Engagement:**  
+  Like, comment, and follow other users to foster a vibrant and connected social network.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Real-Time Updates:**  
+  Benefit from fast server-side rendering and dynamic API routes that keep your feed and notifications up to date.
 
-## Learn More
+- **Secure & Scalable:**  
+  Built on a robust tech stack, Pixo emphasizes performance and security, ensuring a seamless experience as your community grows.
+ 
 
-To learn more about Next.js, take a look at the following resources:
+---
+## Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](https://nextjs.org/) - The React framework for production.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
+## Usage 
+- The site has already been deployed on vercel and can be accessed using the following link : [Pixo](https://pixo-neon.vercel.app/)
+- If you want to run the site on localhost download the code from this link : [Pixo](https://github.com/Om-Lachake/Pixo)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
